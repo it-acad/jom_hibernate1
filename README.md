@@ -1,1 +1,3 @@
-# jom_hibernate1
+# Hibernate. Part 1
+Create model according to image with appropriate constraints.
+Create unit tests.
